@@ -10,4 +10,4 @@ export FLASK_APP=start.py
 
 python -m flask run 
 OR
-python -m flask run --host=172.21.150.216
+python -m flask run --host=your ip address
