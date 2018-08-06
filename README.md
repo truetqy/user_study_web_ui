@@ -3,6 +3,7 @@ A mini web app for user study
 
 
 Requires flask to be installed:  pip install flask
+
 To run: 
 
 export FLASK_APP=start.py
